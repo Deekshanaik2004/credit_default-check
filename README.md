@@ -218,9 +218,6 @@ For development, install additional dependencies:
 pip install -r requirements-dev.txt
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -234,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 - **Create an issue** on GitHub
-- **Email**: [your-email@example.com]
+- **Email**: [dnaik1374@gmail.com]
 - **Documentation**: Check the [Wiki](https://github.com/Deekshanaik2004/credit_default-check/wiki)
 
 ## 🔮 Future Enhancements
@@ -252,4 +249,4 @@ If you encounter any issues or have questions:
 
 ⭐ **Star this repository if you find it helpful!**
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Deeksha**
