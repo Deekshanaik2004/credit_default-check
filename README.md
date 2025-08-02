@@ -1,4 +1,4 @@
-# 💳 Credit Default Prediction
+#  Credit Default Prediction
 
 A machine learning-powered web application for predicting credit default risk using XGBoost algorithm. This project provides both a web interface and API endpoints for credit risk assessment.
 
@@ -7,20 +7,20 @@ A machine learning-powered web application for predicting credit default risk us
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project implements a comprehensive credit default prediction system that helps financial institutions assess the risk of loan default. The system uses machine learning algorithms to analyze customer data and provide risk predictions with confidence scores.
 
 ### Key Features
 
-- 🤖 **Machine Learning Model**: XGBoost-based prediction model
-- 🌐 **Web Interface**: User-friendly Streamlit application
-- 📊 **Real-time Predictions**: Instant credit risk assessment
-- 🔧 **API Endpoints**: RESTful API for integration
-- 📈 **Performance Metrics**: Model evaluation and validation
-- 🛡️ **Data Security**: Secure handling of sensitive financial data
+-  **Machine Learning Model**: XGBoost-based prediction model
+-  **Web Interface**: User-friendly Streamlit application
+-  **Real-time Predictions**: Instant credit risk assessment
+-  **API Endpoints**: RESTful API for integration
+-  **Performance Metrics**: Model evaluation and validation
+-  **Data Security**: Secure handling of sensitive financial data
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 credit_default/
@@ -34,7 +34,7 @@ credit_default/
 └── .gitignore           # Git ignore rules
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -70,7 +70,7 @@ credit_default/
    pip install -r requirements.txt
    ```
 
-## 📖 Usage
+##  Usage
 
 ### Training the Model
 
@@ -110,7 +110,7 @@ The application will be available at `http://localhost:8501`
   - Default Probability Score
   - Visual indicators and recommendations
 
-## 🔌 API Usage
+##  API Usage
 
 ### Prediction Endpoint
 
@@ -136,7 +136,7 @@ The application will be available at `http://localhost:8501`
 }
 ```
 
-## 📊 Model Performance
+##  Model Performance
 
 The XGBoost model has been trained on credit data with the following performance metrics:
 
@@ -145,7 +145,7 @@ The XGBoost model has been trained on credit data with the following performance
 - **Precision**: ~0.82
 - **Recall**: ~0.78
 
-## 🛠️ Technical Details
+##  Technical Details
 
 ### Dependencies
 
@@ -165,7 +165,7 @@ The model analyzes various credit-related features:
 - **Financial Indicators**: Debt-to-income ratio, loan amount
 - **Behavioral Patterns**: Previous credit usage
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -189,7 +189,7 @@ XGBClassifier(
 )
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -219,14 +219,14 @@ pip install -r requirements-dev.txt
 ```
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - XGBoost team for the excellent gradient boosting library
 - Streamlit for the intuitive web framework
 - Scikit-learn for machine learning utilities
 - The open-source community for inspiration and support
 
-## 📞 Support
+##  Support
 
 If you encounter any issues or have questions:
 
@@ -234,7 +234,7 @@ If you encounter any issues or have questions:
 - **Email**: [dnaik1374@gmail.com]
 - **Documentation**: Check the [Wiki](https://github.com/Deekshanaik2004/credit_default-check/wiki)
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Add more machine learning algorithms
 - [ ] Implement model explainability (SHAP)
@@ -247,6 +247,6 @@ If you encounter any issues or have questions:
 
 ---
 
-⭐ **Star this repository if you find it helpful!**
+ **Star this repository if you find it helpful!**
 
-**Made with ❤️ by Deeksha**
+**Made by Deeksha**
